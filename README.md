@@ -10,6 +10,8 @@ It encompasses the components and supporting materials developed as part of our 
 #### Generating Effective Headlines for Social Media Posts
 This study utilizes pre-trained LLMs to generate headlines from social media posts, emphasizing accuracy and engagement. By employing models like PEGASUS, T5, and BART on Reddit data, we aim to preserve semantic content while enhancing summarization. Evaluation metrics, including ROUGE, BLEU, and semantic similarity scores, alongside human feedback, highlight the T5 model's superior performance. Despite computational constraints and model-specific challenges, our research underscores the importance of innovative approaches to evaluation of headline generation from user-generated content.
 
+![Angular Embedding Similarity Score](img/AES.png)
+
 ### Project Contents
 
 - The [notebooks](/notebooks/) directory contains all the Jupyter notebooks used during the project, including those for data exploration, model training, and evaluation.
